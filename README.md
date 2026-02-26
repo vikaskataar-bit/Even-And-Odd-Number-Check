@@ -1,7 +1,7 @@
 # Even-And-Odd-Number-Check 
 
 ## 🔴 Live Demo
-👉 []
+👉 https://vikaskataar-bit.github.io/Even-And-Odd-Number-Check/
 
 
 # 🔢 Even Odd Checker
